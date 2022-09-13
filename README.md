@@ -1,2 +1,3 @@
-# september13
-this is a test project to explore Github
+This is a test project to explore Github
+
+Please check NUS website (https://www.nus.edu.sg/")
